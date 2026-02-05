@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://vintagetrips.com/</loc>
-    <lastmod>2026-02-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://vintagetrips.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://vintagetrips.com/privacy.html</loc></url>
+  <url><loc>https://vintagetrips.com/terms.html</loc></url>
+  <url><loc>https://vintagetrips.com/vintage-train-routes-europe.html</loc></url>
+  <url><loc>https://vintagetrips.com/route-66-luxury-road-trip.html</loc></url>
+  <url><loc>https://vintagetrips.com/japan-vintage-hotels-guide.html</loc></url>
+  <url><loc>https://vintagetrips.com/retro-honeymoon-itineraries.html</loc></url>
+  <url><loc>https://vintagetrips.com/scenic-coastal-voyages.html</loc></url>
+  <url><loc>https://vintagetrips.com/best-time-for-heritage-travel.html</loc></url>
+  <url><loc>https://vintagetrips.com/paris-venice-vienna-rail.html</loc></url>
+  <url><loc>https://vintagetrips.com/new-england-fall-roadtrip.html</loc></url>
+  <url><loc>https://vintagetrips.com/kyoto-retro-cultural-itinerary.html</loc></url>
+  <url><loc>https://vintagetrips.com/luxury-slow-travel-guide.html</loc></url>
 </urlset>
