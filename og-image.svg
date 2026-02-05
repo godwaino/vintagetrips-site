@@ -1,0 +1,13 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#201547"/>
+      <stop offset="50%" stop-color="#5a35ff"/>
+      <stop offset="100%" stop-color="#ff6b6b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="980" cy="110" r="140" fill="#ffb703" opacity="0.35"/>
+  <text x="80" y="260" fill="#ffffff" font-size="72" font-family="Arial, sans-serif" font-weight="700">VintageTrips</text>
+  <text x="80" y="330" fill="#ffe39f" font-size="40" font-family="Arial, sans-serif">Luxury nostalgic journeys by rail, road &amp; sea</text>
+</svg>
