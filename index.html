@@ -54,6 +54,10 @@ keywords: vintage travel, heritage train vacations, luxury road trips, slow trav
     font-size: 1rem;
     color: var(--bg);
   }
+  /* Fix excessive spacing between sections */
+  .section.container {
+    padding: 3rem 0;
+  }
   @media (max-width: 920px) {
     .hero {
       grid-template-columns: 1fr;
@@ -105,7 +109,7 @@ keywords: vintage travel, heritage train vacations, luxury road trips, slow trav
       <a href="{{ site.baseurl }}/japan-vintage-hotels-guide.html" class="card-link">Learn more →</a>
     </article>
   </div>
-  <div style="text-align: center; margin-top: 3rem;">
+  <div style="text-align: center; margin-top: 2rem;">
     <a href="{{ site.baseurl }}/trips.html" class="btn btn-secondary">View All 25+ Trips</a>
   </div>
 </section>
@@ -150,6 +154,7 @@ keywords: vintage travel, heritage train vacations, luxury road trips, slow trav
       <input type="hidden" name="_subject" value="New VintageTrips Newsletter Signup">
       <input type="hidden" name="_captcha" value="false">
       <input type="hidden" name="_template" value="table">
+      <input type="hidden" name="_next" value="https://www.vintagetrips.com/?subscribed=true">
       
       <label for="email" class="sr-only">Email address</label>
       <input id="email" name="email" type="email" placeholder="you@example.com" required aria-required="true" />
