@@ -1,0 +1,38 @@
+# Site settings
+title: VintageTrips
+description: Luxury nostalgic journeys by rail, road & sea
+url: "https://www.vintagetrips.com"
+baseurl: ""
+
+# Build settings
+theme: null
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  trips:
+    output: true
+    permalink: /trips/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "trips"
+    values:
+      layout: "trip"
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Markdown
+markdown: kramdown
+
+# Sass/SCSS
+sass:
+  style: compressed
